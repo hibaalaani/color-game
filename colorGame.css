@@ -1,0 +1,40 @@
+body{
+    background-color: black;
+    margin:0;
+    font-family: "montserrat", "avenir";
+}
+.squire{
+    padding-bottom: 30%;
+    width: 30%;
+    background-color: blueviolet;
+    margin:1.66%;
+    float: left;
+}
+.container{
+    width: 600px;
+    margin: 0 auto;
+}
+h1{
+    color:white;
+    text-align: center;
+    background-color: steelblue;
+    margin:0;
+    font-weight: normal;
+    text-transform: uppercase;
+}
+#display{
+    font-size: 200%;
+}
+/* #message{
+    color:white
+} */
+#stripe{
+    background-color: white;
+    height: 30px;
+    text-align: center;
+    color: black;
+
+}
+.selected{
+    background-color: cornflowerblue;
+}
